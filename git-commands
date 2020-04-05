@@ -1,0 +1,51 @@
+#make a dir to be a repo then execute :
+ git init 
+
+
+#touch abdallah.py  
+ git add . 
+
+
+# git commit -m "first commit"
+
+# git status 
+
+
+# git config 
+  git config --global user.name "abdallah"
+  git config --global user.email "abdallah.alsab3@gmail.com"
+  git config  user.email "abdallah.alsab3@gmail.com"
+  git config  user.name "abdallah"
+  git config  --local user.name "abdallah"
+  git config  --local user.email "abdallah.alsab3@gmail.com"
+
+# git branch
+
+
+# git branch
+  to see your current working branch
+
+
+# git branch abdallah 
+   create new branch 
+
+
+# git checkout abdallah 
+  to switch to branch "abdallah"
+
+
+# git merage abdallah
+ after switching to master you can merge your branch 
+
+
+# git branch -d abdallah 
+ to delete a branch 
+
+
+# git checkout -b abdallah-branch
+  to create a branch and checkout(switch) to it 
+
+
+# git remote add origin git@github.com:abdallahalsabe/abdallah.alsab3-gmail.com.git
+ to connect to your github repo
+
